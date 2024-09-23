@@ -1,0 +1,30 @@
+/*
+font-family: "Heebo-Bold", sans-serif;
+font-family: "Heebo-Light", sans-serif;
+font-family: "Yantramanav-Bold", sans-serif;
+
+*/
+
+
+
+@font-face {
+  font-family: 'Heebo';
+  src: url("/fonts/Heebo-Bold.woff2") format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Heebo';
+  src: url("/fonts/Heebo-Light.woff2") format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Yantramanav-Bold';
+  src: url("/fonts/Yantramanav-Bold.woff2") format('woff2');
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
